@@ -3,6 +3,8 @@
 ```
 alex@manjaro-i3:~$ cat about_me.txt
 Scientist & self-taught programmer.
+```
+```
 alex@manjaro-i3:~$ tree
 .
 ├── education
