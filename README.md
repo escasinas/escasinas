@@ -1,19 +1,17 @@
 ![banner](https://user-images.githubusercontent.com/101715326/158585781-04004098-f9e2-40c3-9350-010361799459.png)
 
-Scientist & self-taught programmer.
-
 ```
+alex@manjaro-i3:~$ cat about_me.txt
+Scientist & self-taught programmer.
 alex@manjaro-i3:~$ tree
 .
 ├── education
 │   ├── bsc biochemistry
 │   └── msc bioinformatics
-│
 ├── interests
 │   ├── bioinformatics
 │   ├── deep learning
 │   └── machine learning
-│
 └── languages
     ├── c
     ├── c++
