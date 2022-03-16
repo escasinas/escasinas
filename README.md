@@ -1,4 +1,4 @@
-![banner](https://user-images.githubusercontent.com/101715326/158585444-200958bf-af2f-459b-8664-15e3e7ccf5f1.png)
+![banner](https://user-images.githubusercontent.com/101715326/158585781-04004098-f9e2-40c3-9350-010361799459.png)
 
 Scientist & self-taught programmer.
 
