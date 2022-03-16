@@ -1,5 +1,3 @@
-# Hello!
-
 ![banner](https://user-images.githubusercontent.com/101715326/158585444-200958bf-af2f-459b-8664-15e3e7ccf5f1.png)
 
 Scientist & self-taught programmer.
