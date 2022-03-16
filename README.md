@@ -16,12 +16,10 @@ alex@manjaro-i3:~$ tree
     ├── javascript
     └── python
 ```
+<div align='center'>
 
 [![Alex's github stats](https://github-readme-stats.vercel.app/api?username=escasinas&theme=monokai&show_icons=true)](https://github.com/escasinas)
 
-
+</div>
+    
 ![](https://komarev.com/ghpvc/?username=escasinas&color=orange)
-
-<p align='center'>
-    test
-</p>
