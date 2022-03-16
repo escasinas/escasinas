@@ -2,10 +2,22 @@
 
 Scientist & self-taught programmer.
 
-Interested in:
-- Natural Sciences
-- Data Science
-- ML/AI
+`alex@manjaro-i3:~$ tree`
+.
+├── education
+│   ├── bsc biochemistry
+│   └── msc bioinformatics
+│
+├── interests
+│   ├── bioinformatics
+│   ├── deep learning
+│   └── machine learning
+│
+└── languages
+    ├── c
+    ├── c++
+    ├── javascript
+    └── python
 
 [![Alex's github stats](https://github-readme-stats.vercel.app/api?username=escasinas&theme=monokai&show_icons=true)](https://github.com/escasinas)
 
