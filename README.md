@@ -18,5 +18,7 @@ alex@manjaro-i3:~$ tree
 ```
 
 [![Alex's github stats](https://github-readme-stats.vercel.app/api?username=escasinas&theme=monokai&show_icons=true)](https://github.com/escasinas)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=escasinas)](https://github.com/escasinas/github-readme-stats)
+
 ![](https://komarev.com/ghpvc/?username=escasinas&color=orange)
