@@ -3,7 +3,7 @@
 Scientist & self-taught programmer.
 
 `alex@manjaro-i3:~$ tree`
-`
+```
 .
 ├── education
 │   ├── bsc biochemistry
@@ -19,7 +19,7 @@ Scientist & self-taught programmer.
     ├── c++
     ├── javascript
     └── python
-`
+```
 
 [![Alex's github stats](https://github-readme-stats.vercel.app/api?username=escasinas&theme=monokai&show_icons=true)](https://github.com/escasinas)
 
