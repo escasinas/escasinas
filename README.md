@@ -2,8 +2,8 @@
 
 Scientist & self-taught programmer.
 
-`alex@manjaro-i3:~$ tree`
 ```
+alex@manjaro-i3:~$ tree
 .
 ├── education
 │   ├── bsc biochemistry
