@@ -17,4 +17,6 @@ alex@manjaro-i3:~$ tree
     └── python
 ```
 
-[![Alex's github stats](https://github-readme-stats.vercel.app/api?username=escasinas&theme=monokai&show_icons=true)](https://github.com/escasinas) <p align='right'>Scientist & self-taught programmer.</p>
+<img align='left' src='https://github-readme-stats.vercel.app/api?username=escasinas&theme=monokai&show_icons=true'>
+
+<p align='right'>Scientist & self-taught programmer.</p>
