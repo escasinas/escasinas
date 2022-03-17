@@ -17,6 +17,6 @@ alex@manjaro-i3:~$ tree
     └── python
 ```
 
-[![Alex's github stats](https://github-readme-stats.vercel.app/api?username=escasinas&theme=monokai&show_icons=true)](https://github.com/escasinas) Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse et erat vel ligula auctor dignissim. Duis mattis mauris feugiat mollis suscipit.
+[![Alex's github stats](https://github-readme-stats.vercel.app/api?username=escasinas&theme=monokai&show_icons=true)](https://github.com/escasinas)
 
 ![](https://komarev.com/ghpvc/?username=escasinas&color=orange)
