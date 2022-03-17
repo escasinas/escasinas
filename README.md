@@ -1,5 +1,9 @@
 ![banner](https://user-images.githubusercontent.com/101715326/158585781-04004098-f9e2-40c3-9350-010361799459.png)
 
+<p align='center'>
+    Scientist & self-taught programmer. Currently learning ML.
+</p>
+
 ```
 alex@manjaro-i3:~$ tree
 .
