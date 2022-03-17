@@ -18,7 +18,4 @@ alex@manjaro-i3:~$ tree
 ```
 
 <img align='left' src='https://github-readme-stats.vercel.app/api?username=escasinas&theme=monokai&show_icons=true'>
-
-
-
 <p align='right'>Scientist & self-taught programmer based in Newcastle upon Tyne.  </p>
