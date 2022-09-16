@@ -11,7 +11,6 @@ alex@manjaro-i3:~$ tree
 │   ├── deep learning
 │   └── machine learning
 └── languages
-    ├── c
     ├── c++
     ├── javascript
     └── python
