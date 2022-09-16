@@ -8,7 +8,7 @@ alex@manjaro-i3:~$ tree
 │   └── msc bioinformatics
 ├── interests
 │   ├── bioinformatics
-│   ├── deep learning
+│   ├── data science
 │   └── machine learning
 └── languages
     ├── c++
