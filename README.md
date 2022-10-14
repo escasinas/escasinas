@@ -8,7 +8,9 @@ Hello! Welcome to my GitHub. I hope my work will be somewhat useful to you :)
 <li>Studied <b>BSc Biochemistry</b> and <b>MSc Bioinformatics</b></li>
 </ul>
 
-| Google Scholar |  https://scholar.google.com/citations?user=m6Y0gc4AAAAJ&hl=en&oi=ao |
+| Google Scholar |  [Link](https://scholar.google.com/citations?user=m6Y0gc4AAAAJ&hl=en&oi=ao) |
+| -------------- | ------------------------------------------------------------------- |
+| Kaggle |  [Link](https://www.kaggle.com/escasinas)) |
 | -------------- | ------------------------------------------------------------------- |
 
-<i>"I have no special talent. I am only passionately curious."</i><b>- Albert Einstein</b>
+<i>"I have no special talent. I am only passionately curious."</i><b> - Albert Einstein</b>
