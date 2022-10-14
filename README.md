@@ -15,4 +15,4 @@ Hello! Welcome to my GitHub. I hope my work will be somewhat useful to you :)
 | Kaggle |  [kaggle.com/escasinas](https://www.kaggle.com/escasinas) |
 | ---------- | ---------- |
 
-<i>"I have no special talent. I am only passionately curious."</i><b> - Albert Einstein</b>
+<i>"I have no special talents. I am only passionately curious."</i><b> - Albert Einstein</b>
