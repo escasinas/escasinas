@@ -9,5 +9,6 @@ Hello! Welcome to my GitHub. I hope my work will be somewhat useful to you :)
 </ul>
 
 | Google Scholar |  [Link](https://scholar.google.com/citations?user=m6Y0gc4AAAAJ&hl=en&oi=ao) |
-| -------------- | ------------------------------------------------------------------- |
+| ----- | ----- |
+
 <i>"I have no special talent. I am only passionately curious."</i><b> - Albert Einstein</b>
