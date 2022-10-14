@@ -4,6 +4,7 @@ Hello! Welcome to my GitHub. I hope my work will be somewhat useful to you :)
 
 <h3><u><b>Bio</b></u></h3>
 <ul>
+<li><b>Bioinformatician</b> for a biotech company</li>
 <li>Based in <b>Newcastle upon Tyne, UK</b></li>
 <li>Studied <b>BSc Biochemistry</b> and <b>MSc Bioinformatics</b></li>
 </ul>
