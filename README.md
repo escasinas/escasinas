@@ -1,7 +1,6 @@
 Hello! Welcome to my GitHub. I hope my work will be somewhat useful to you :)
 
 <img src="babygroot.png" align="right" height="450">
-
 <h3><u><b>Bio</b></u></h3>
 <ul>
 <li><b>Bioinformatician</b> for a biotech company</li>
