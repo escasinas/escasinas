@@ -8,10 +8,10 @@ Hello! Welcome to my GitHub. I hope my work will be somewhat useful to you :)
 <li>Studied <b>BSc Biochemistry</b> and <b>MSc Bioinformatics</b></li>
 </ul>
 
-| Google Scholar |  [Link](https://scholar.google.com/citations?user=m6Y0gc4AAAAJ&hl=en&oi=ao) |
-| ----- | ----- |
+| Google Scholar |  [scholar.google.com/escasinas](https://scholar.google.com/citations?user=m6Y0gc4AAAAJ&hl=en&oi=ao) |
+| ---------- | ---------- |
 
-| Kaggle |  [Link](https://www.kaggle.com/escasinas) |
-| ----- | ----- |
+| Kaggle |  [www.kaggle.com/escasinas](https://www.kaggle.com/escasinas) |
+| ---------- | ---------- |
 
 <i>"I have no special talent. I am only passionately curious."</i><b> - Albert Einstein</b>
