@@ -1,20 +1,14 @@
-![banner](https://user-images.githubusercontent.com/101715326/158585781-04004098-f9e2-40c3-9350-010361799459.png)
+Hello! Welcome to my GitHub. I hope my work will be somewhat useful to you :)
 
-```
-alex@manjaro-i3:~$ tree
-.
-├── education
-│   ├── bsc biochemistry
-│   └── msc bioinformatics
-├── interests
-│   ├── bioinformatics
-│   ├── data science
-│   └── machine learning
-└── languages
-    ├── c++
-    ├── javascript
-    └── python
-```
+<img src="einstein.png" align="right" height="450">
 
-<img align='left' src='https://github-readme-stats.vercel.app/api?username=escasinas&theme=monokai&show_icons=true'>
-<p align='right'>Scientist & self-taught programmer based in Newcastle upon Tyne.  </p>
+<h3><u><b>Bio</b></u></h3>
+<ul>
+<li>Based in <b>Newcastle upon Tyne, UK</b></li>
+<li>Studied <b>BSc Biochemistry</b> and <b>MSc Bioinformatics</b></li>
+</ul>
+
+| Google Scholar |  https://scholar.google.com/citations?user=m6Y0gc4AAAAJ&hl=en&oi=ao |
+| -------------- | ------------------------------------------------------------------- |
+
+<i>"I have no special talent. I am only passionately curious."</i><b>- Albert Einstein</b>
