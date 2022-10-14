@@ -12,7 +12,7 @@ Hello! Welcome to my GitHub. I hope my work will be somewhat useful to you :)
 | Google Scholar |  [scholar.google.com/escasinas](https://scholar.google.com/citations?user=m6Y0gc4AAAAJ&hl=en&oi=ao) |
 | ---------- | ---------- |
 
-| Kaggle |  [www.kaggle.com/escasinas](https://www.kaggle.com/escasinas) |
+| Kaggle |  [kaggle.com/escasinas](https://www.kaggle.com/escasinas) |
 | ---------- | ---------- |
 
 <i>"I have no special talent. I am only passionately curious."</i><b> - Albert Einstein</b>
